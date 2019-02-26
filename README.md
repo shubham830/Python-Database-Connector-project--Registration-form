@@ -6,4 +6,4 @@ Registration form for hackathon participants that uses python for GUI and mysql 
 
 Main Registration Page
 
-[!](https://github.com/shubham99bisht/Python-Database-Connector-project--Registration-form/blob/master/screenshot.png)
+![alt text](https://github.com/shubham99bisht/Python-Database-Connector-project--Registration-form/blob/master/screenshot.png)
